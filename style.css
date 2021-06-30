@@ -26,7 +26,7 @@ body{
     align-items: center;
     min-height: 100vh;
     background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("mainbg.jpg");
-    font-family: sans-serif;
+    
   }
   .container{
     width: 100%;
@@ -35,12 +35,14 @@ body{
     flex-direction: column;
 }
 .title{
-    font-family: 'Poppins', sans-serif ;
+    
     width: 100%;
     font-size: 70px;
     color: white;
     padding: 50px;
     text-align: center;
+    font-family: 'Akaya Kanadaka', cursive;
+  
 }
 
   .box{
